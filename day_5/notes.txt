@@ -1,0 +1,4 @@
+day1: create folder and files
+day2: print hello world
+day3: bar graph
+day4: pie.py,plot.py
