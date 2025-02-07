@@ -1,0 +1,6 @@
+crate a folder and subfolder 
+day 1: print a simple hello world
+day 2: git commands
+day 3: bar graph
+day 4: pie.py and plot.py
+day 5: notes 
